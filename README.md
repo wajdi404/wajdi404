@@ -3,7 +3,7 @@
 ### About Me
 
 <p align="justify">
-I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. Passion for programming and always curious about designing and implementing applications. Have an excellent understanding of algorithms, data structures, machine learning, computer vision, and deep learning. Committed to critical thinking and attention to detail, responsible and highly organized, open-mind, and willing new things.
+I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. Passion for programming and always eager to design and implement high-quality applications. Have an excellent understanding of algorithms, data structures, machine learning, computer vision, and deep learning. Committed to critical thinking and attention to detail, responsible and highly organized, open-mind, and willing to learn new things. I’m currently open for: Internships or Job opportunities. 
 </p>
 
 <div align="center">
