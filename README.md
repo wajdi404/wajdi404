@@ -3,21 +3,32 @@
 ### About Me
 
 <div align="center">
-<a href="https://jeffreychiu.dev/">
-<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/jchiu86">
+
+<a href="https://www.linkedin.com/in/wajdi-touiti/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://jeffrey-chiu.medium.com/">
-<img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+
+<a href="https://www.hackerrank.com/wajdi_twiti">
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:mr.jeffrey.chiu@gmail.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+
+<a href="https://leetcode.com/user4189k/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="linkedin" />
 </a>
+
+<a href="https://www.coursera.org/user/53ced784b5953428fd66f6891536a2fd">
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="linkedin" />
+</a>
+
+<a href="mailto:wajdi.twiti@gmail.com">
+ <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+
 </div>
 
+
 ### Languages, Tools, and Skills 🛠
+
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
