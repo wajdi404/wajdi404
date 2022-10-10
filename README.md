@@ -2,6 +2,10 @@
 
 ### About Me
 
+<p align="justify">
+I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. 
+</p>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/wajdi-touiti/">
