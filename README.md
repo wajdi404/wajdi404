@@ -3,7 +3,7 @@
 ### About Me
 
 <p align="justify">
-I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. I have a great passion for programming and am always curious about designing and implementing applications. 
+I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. Passion for programming and always curious about designing and implementing applications. Have an excellent understanding of algorithms, data structures, machine learning, computer vision, and deep learning. Committed to critical thinking and attention to detail, responsible and highly organized, open-mind, and willing new things.
 </p>
 
 <div align="center">
@@ -32,6 +32,7 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
 
 
 ### Languages, Tools, and Skills 🛠
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
