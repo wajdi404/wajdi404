@@ -3,7 +3,7 @@
 ### About Me
 
 <p align="justify">
-I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. 
+I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. I have a great passion for programming and am always curious about designing and implementing applications. 
 </p>
 
 <div align="center">
