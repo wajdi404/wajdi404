@@ -1,1 +1,1 @@
-<img src="./Banner_2.jpg" alt="name banner" />
+<img src="./Banner_2.png" alt="name banner" />
