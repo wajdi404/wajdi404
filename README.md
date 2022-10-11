@@ -33,7 +33,7 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
 
 ### Languages, Tools, and Skills 🛠
 
-## 📋 Languages
+#### 📋 Languages
 <div align="center">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" />
@@ -48,7 +48,10 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
  <img src="https://img.shields.io/badge/XML-%3ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="XML" />
 </div>
 
-## Frameworks & Libraries
+#### 📚 Frameworks & Libraries
+<div align="center">
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" />
+</div>
 
 <!---
 <div align="center">
