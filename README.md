@@ -65,6 +65,8 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
  <img src="https://img.shields.io/badge/RestfulAPI-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="RestfulAPI" />
  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT/JSON Web Token" />
  <img src="https://img.shields.io/badge/AJAX-%3ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="AJAX" />
+ <img src="https://img.shields.io/badge/BeautifulSoup-f63Dff.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BeautifulSoup" />
+ <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </div>
 
 <!---
