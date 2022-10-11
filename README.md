@@ -27,6 +27,8 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
  <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
+</div>
+
 ### Languages, Tools, & Skills 🛠
 
 #### 📋 Languages
