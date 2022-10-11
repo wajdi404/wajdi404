@@ -1,6 +1,6 @@
 <img src="./Banner_2.png" alt="name banner" heigth="281" width="1400" />
 
-### **About Me**
+### About Me
 
 <p align="justify">
 I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. Passion for programming and always eager to design and implement high-quality applications. Have an excellent understanding of algorithms, data structures, machine learning, computer vision, and deep learning. Committed to critical thinking and attention to detail, responsible and highly organized, open-mind, and willing to learn new things. 🤔 I’m currently open for: Internships or Job opportunities. 
@@ -27,7 +27,7 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
  <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-# **Languages, Tools, & Skills** 🛠
+### Languages, Tools, & Skills 🛠
 
 #### 📋 Languages
 <div align="center">
