@@ -1,6 +1,6 @@
 <img src="./Banner_2.png" alt="name banner" heigth="281" width="1400" />
 
-### About Me
+### **About Me**
 
 <p align="justify">
 I am a junior majoring in Computer Science who constantly seeking smart and innovative solutions to everyday problems. Passion for programming and always eager to design and implement high-quality applications. Have an excellent understanding of algorithms, data structures, machine learning, computer vision, and deep learning. Committed to critical thinking and attention to detail, responsible and highly organized, open-mind, and willing to learn new things. 🤔 I’m currently open for: Internships or Job opportunities. 
@@ -9,29 +9,25 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
 <div align="center">
 
 <a href="https://www.linkedin.com/in/wajdi-touiti/">
-<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-
 <a href="https://www.hackerrank.com/wajdi_twiti">
- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="linkedin" />
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
 </a>
-
 <a href="https://leetcode.com/user4189k/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="linkedin" />
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" />
 </a>
-
 <a href="https://www.coursera.org/user/53ced784b5953428fd66f6891536a2fd">
-<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="linkedin" />
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
 </a>
-
+<a href="https://www.kaggle.com/skynet404">
+ <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
 <a href="mailto:wajdi.twiti@gmail.com">
- <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+ <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-</div>
-
-
-### Languages, Tools, and Skills 🛠
+# **Languages, Tools, & Skills** 🛠
 
 #### 📋 Languages
 <div align="center">
@@ -75,7 +71,14 @@ I am a junior majoring in Computer Science who constantly seeking smart and inno
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+</div>
+ 
+#### 💾 Databases
+<div align="center">
+ <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+ <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
 #### 
